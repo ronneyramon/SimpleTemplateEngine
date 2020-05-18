@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTemplateEngine", "SimpleTemplateEngine\SimpleTemplateEngine.csproj", "{FA1FB13F-32C4-47B8-B87B-41798D3EFA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTemplateEngine.Tests.NetCore", "SimpleTemplateEngine.Tests.NetCore\SimpleTemplateEngine.Tests.NetCore.csproj", "{B70B64A1-56A0-45D7-8C51-9E588A46FDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1FB13F-32C4-47B8-B87B-41798D3EFA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1FB13F-32C4-47B8-B87B-41798D3EFA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1FB13F-32C4-47B8-B87B-41798D3EFA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1FB13F-32C4-47B8-B87B-41798D3EFA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70B64A1-56A0-45D7-8C51-9E588A46FDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70B64A1-56A0-45D7-8C51-9E588A46FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70B64A1-56A0-45D7-8C51-9E588A46FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70B64A1-56A0-45D7-8C51-9E588A46FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A92A41-F5BD-41AF-9A94-BB96FC01B9F0}
+	EndGlobalSection
+EndGlobal

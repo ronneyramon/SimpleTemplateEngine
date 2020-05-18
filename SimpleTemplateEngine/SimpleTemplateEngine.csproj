@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <PackageId>SimpleTemplateEngine</PackageId>
+    <Authors>Ronney Ramon</Authors>
+    <Company>Ronney Ramon</Company>
+    <Title>SimpleTemplateEngine</Title>
+    <Description>SimpleTemplateEngine, as the name suggests, is a simple string-based template engine for .NET that alows easy creation and manipulation of string templates.</Description>
+    <PackageProjectUrl>https://github.com/ronneyramon/SimpleTemplateEngine</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ronneyramon/SimpleTemplateEngine</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.0-alpha1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
