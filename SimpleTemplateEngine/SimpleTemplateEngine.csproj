@@ -6,7 +6,7 @@
     <Authors>Ronney Ramon</Authors>
     <Company>Ronney Ramon</Company>
     <Title>SimpleTemplateEngine</Title>
-    <Description>SimpleTemplateEngine, as the name suggests, is a simple string-based template engine for .NET that alows easy creation and manipulation of string templates.</Description>
+    <Description>SimpleTemplateEngine, as the name suggests, is a simple string-based template engine for .NET which alows easy creation and manipulation of string templates.</Description>
     <PackageProjectUrl>https://github.com/ronneyramon/SimpleTemplateEngine</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ronneyramon/SimpleTemplateEngine</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
